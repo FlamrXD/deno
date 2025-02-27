@@ -1,2 +1,2 @@
 # deno
-An AI copyright checker
+A <strong>minimal<strong> YT-DL frontend
