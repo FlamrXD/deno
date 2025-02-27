@@ -1,2 +1,2 @@
 # deno
-A <strong>minimal<strong> YT-DL frontend
+A <strong>minimal</strong> YT-DL frontend
